@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">Camilo Mompotes</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="">Camilo Mompotes</a> 👋</h1>
 </div>
 <img src="">
 
@@ -10,19 +10,13 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube]() ()
-- ✏️ Y por escrito en [CursoKotlin]()
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos]()
-- 🧑‍🏫 Creador de [AppCademy]()
 <br>
 
-## Proyectos *bombitas*
+## Proyectos **
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center"></h3>
 <div align="center">
 <a href= target="_blank"><img src= width="400" alt=""></a>
 <p>
