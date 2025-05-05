@@ -16,7 +16,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center"></h3>
+<h3 align="center"> soy programador de aprendizaje independiente </h3>
 <div align="center">
 <a href= target="_blank"><img src= width="400" alt=""></a>
 <p>
