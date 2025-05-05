@@ -11,7 +11,7 @@
 ## Sobre mi
 
 <br>
-
+soy programador aprendiendo lenguajes de forma independiente 
 ## Proyectos **
 <table>
 <tr>
