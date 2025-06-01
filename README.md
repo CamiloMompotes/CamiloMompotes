@@ -2,12 +2,6 @@
 <h1 align="center">Hola, soy <a href="">Camilo Mompotes</a> 👋</h1>
 </div>
 <img src="">
-
-[![YouTube Channel Subscribers]()]()
-[![Twitch Status]()]()
-[![GitHub followers]()]()
-![Discord Shield]()
-
 ## Sobre mi
 
 <br>
@@ -27,7 +21,7 @@ soy programador aprendiendo lenguajes de forma independiente
 <img src="">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+
 </div>
                                                                                       
 </td>
